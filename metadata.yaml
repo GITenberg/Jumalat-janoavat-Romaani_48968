@@ -1,0 +1,38 @@
+_repo: Jumalat-janoavat-Romaani_48968
+contributor:
+  translator:
+    agent_name: Onerva, L.
+    aliases:
+    - Lehtinen, Onerva
+    - Lehtinen, Hilja Onerva
+    - Streng, Hilja Onerva
+    - Madetoja, Hilja Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2015-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48968'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Jumalat janoavat
+
+  Romaani'
+url: http://www.gutenberg.org/ebooks/48968
